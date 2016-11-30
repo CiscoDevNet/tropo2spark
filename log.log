@@ -1,0 +1,377 @@
+=> Booting Puma
+=> Rails 5.0.0 application starting in production on http://0.0.0.0:3000
+=> Run `rails server -h` for more startup options
+Puma starting in single mode...
+* Version 3.6.0 (ruby 2.3.1-p112), codename: Sleepy Sunday Serenity
+* Min threads: 5, max threads: 5
+* Environment: production
+* Listening on tcp://0.0.0.0:3000
+Use Ctrl-C to stop
+email:
+Jeodell@cisco.com
+Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw
+{:roomId=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", :personId=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS85NGU5MTA5NC0yZTdkLTQ1MTctODY2YS0yZTZlZGQ2NzhlZTg"}
+{"id"=>"Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvOTRlOTEwOTQtMmU3ZC00NTE3LTg2NmEtMmU2ZWRkNjc4ZWU4OjA0ZGFlZTcwLTY2MzctMTFlNi04OTI3LTczZjQwNWZmMTk5MA", "roomId"=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", "personId"=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS85NGU5MTA5NC0yZTdkLTQ1MTctODY2YS0yZTZlZGQ2NzhlZTg", "personEmail"=>"jeodell@cisco.com", "personDisplayName"=>"Jeff Odell", "isModerator"=>false, "isMonitor"=>false, "created"=>"2016-08-29T21:13:57.981Z"}
+result of spark join room
+
+inital_text:
+Jeodell@cisco.com
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Thanks for joining! Please check in with Devvie inside of the DevNet SE-Missions Possible Spark room by typing:\n Devvie agent \u003cyour_name\u003e reporting in"}]},{"say":[{"value":"Don't forget to mention Devvie to get his attention!"}]}]}
+String
+
+=========
+=========
+=========
+email:
+matforst@cisco.com
+Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw
+{:roomId=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", :personId=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS8zMzdjNTI0YS01YjZmLTRkYzktODJmNy00OGM3YjQxZWRmOTQ"}
+{"id"=>"Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvMzM3YzUyNGEtNWI2Zi00ZGM5LTgyZjctNDhjN2I0MWVkZjk0OjA0ZGFlZTcwLTY2MzctMTFlNi04OTI3LTczZjQwNWZmMTk5MA", "roomId"=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", "personId"=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS8zMzdjNTI0YS01YjZmLTRkYzktODJmNy00OGM3YjQxZWRmOTQ", "personEmail"=>"matforst@cisco.com", "personDisplayName"=>"Mat Forster", "isModerator"=>false, "isMonitor"=>false, "created"=>"2016-08-29T23:30:30.959Z"}
+result of spark join room
+
+inital_text:
+matforst@cisco.com
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Thanks for joining! Please check in with Devvie inside of the DevNet SE-Missions Possible Spark room by typing:\n Devvie agent \u003cyour_name\u003e reporting in"}]},{"say":[{"value":"Don't forget to mention Devvie to get his attention!"}]}]}
+String
+
+=========
+=========
+=========
+email:
+sakskuma@cisco.com
+Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw
+{:roomId=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", :personId=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS85YjAyYjU1Ni04Yjk0LTQ4OGYtODliMC0xNDc0NGYxYWU5MmY"}
+{"id"=>"Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvOWIwMmI1NTYtOGI5NC00ODhmLTg5YjAtMTQ3NDRmMWFlOTJmOjA0ZGFlZTcwLTY2MzctMTFlNi04OTI3LTczZjQwNWZmMTk5MA", "roomId"=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", "personId"=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS85YjAyYjU1Ni04Yjk0LTQ4OGYtODliMC0xNDc0NGYxYWU5MmY", "personEmail"=>"sakskuma@cisco.com", "personDisplayName"=>"Akshaya Kumar Sankaran", "isModerator"=>false, "isMonitor"=>false, "created"=>"2016-08-30T04:08:54.336Z"}
+result of spark join room
+
+inital_text:
+sakskuma@cisco.com
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Thanks for joining! Please check in with Devvie inside of the DevNet SE-Missions Possible Spark room by typing:\n Devvie agent \u003cyour_name\u003e reporting in"}]},{"say":[{"value":"Don't forget to mention Devvie to get his attention!"}]}]}
+String
+
+=========
+=========
+=========
+email:
+pamosima@cisco.com
+Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw
+{:roomId=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", :personId=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS84NTZmZGYwMC0yNWU3LTQ5N2UtYWM5Yy04NWQyNjA1MjU0ODA"}
+{"id"=>"Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvODU2ZmRmMDAtMjVlNy00OTdlLWFjOWMtODVkMjYwNTI1NDgwOjA0ZGFlZTcwLTY2MzctMTFlNi04OTI3LTczZjQwNWZmMTk5MA", "roomId"=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", "personId"=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS84NTZmZGYwMC0yNWU3LTQ5N2UtYWM5Yy04NWQyNjA1MjU0ODA", "personEmail"=>"pamosima@cisco.com", "personDisplayName"=>"Patrick Mosimann", "isModerator"=>false, "isMonitor"=>false, "created"=>"2016-08-30T10:29:11.166Z"}
+result of spark join room
+
+inital_text:
+pamosima@cisco.com
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Thanks for joining! Please check in with Devvie inside of the DevNet SE-Missions Possible Spark room by typing:\n Devvie agent \u003cyour_name\u003e reporting in"}]},{"say":[{"value":"Don't forget to mention Devvie to get his attention!"}]}]}
+String
+
+=========
+=========
+=========
+email:
+ailiesiu@cisco.com
+Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw
+{:roomId=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", :personId=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS9kNmM2MjE3Zi00YmIwLTRiYzAtYjgzMi03NTBkZWNkOWZlZmQ"}
+{:status=>"409"}
+result of spark join room
+
+inital_text:
+ailiesiu@cisco.com
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Thanks for joining! Please check in with Devvie inside of the DevNet SE-Missions Possible Spark room by typing:\n Devvie agent \u003cyour_name\u003e reporting in"}]},{"say":[{"value":"Don't forget to mention Devvie to get his attention!"}]}]}
+String
+
+=========
+=========
+=========
+email:
+Jcentamo@cisco.com
+Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw
+{:roomId=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", :personId=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS84ZGJlYjcwZi00YmJlLTRmYzItYmJmNS1kOTNiYWIxYjQ2ZDg"}
+{"id"=>"Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvOGRiZWI3MGYtNGJiZS00ZmMyLWJiZjUtZDkzYmFiMWI0NmQ4OjA0ZGFlZTcwLTY2MzctMTFlNi04OTI3LTczZjQwNWZmMTk5MA", "roomId"=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", "personId"=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS84ZGJlYjcwZi00YmJlLTRmYzItYmJmNS1kOTNiYWIxYjQ2ZDg", "personEmail"=>"jcentamo@cisco.com", "personDisplayName"=>"John Centamore", "isModerator"=>false, "isMonitor"=>false, "created"=>"2016-08-30T20:41:18.464Z"}
+result of spark join room
+
+inital_text:
+Jcentamo@cisco.com
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Thanks for joining! Please check in with Devvie inside of the DevNet SE-Missions Possible Spark room by typing:\n Devvie agent \u003cyour_name\u003e reporting in"}]},{"say":[{"value":"Don't forget to mention Devvie to get his attention!"}]}]}
+String
+
+=========
+=========
+=========
+email:
+Luissola@cisco.com
+Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw
+{:roomId=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", :personId=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS85MjNiOTZlMi0yM2JhLTQxY2EtOWQ0OC0yNTZhN2MyNjIwZGQ"}
+{"id"=>"Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvOTIzYjk2ZTItMjNiYS00MWNhLTlkNDgtMjU2YTdjMjYyMGRkOjA0ZGFlZTcwLTY2MzctMTFlNi04OTI3LTczZjQwNWZmMTk5MA", "roomId"=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", "personId"=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS85MjNiOTZlMi0yM2JhLTQxY2EtOWQ0OC0yNTZhN2MyNjIwZGQ", "personEmail"=>"luissola@cisco.com", "personDisplayName"=>"Luis Carlos Solano", "isModerator"=>false, "isMonitor"=>false, "created"=>"2016-08-30T21:56:27.798Z"}
+result of spark join room
+
+inital_text:
+Luissola@cisco.com
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Thanks for joining! Please check in with Devvie inside of the DevNet SE-Missions Possible Spark room by typing:\n Devvie agent \u003cyour_name\u003e reporting in"}]},{"say":[{"value":"Don't forget to mention Devvie to get his attention!"}]}]}
+String
+
+=========
+=========
+=========
+email:
+ssicard@cisco.com
+Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw
+{:roomId=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", :personId=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82NGI1ZjVlNS0zZTA0LTRkMmYtOTIwMy0yNTMyMGIxYTBlMmE"}
+{:status=>"409"}
+result of spark join room
+
+inital_text:
+ssicard@cisco.com
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Thanks for joining! Please check in with Devvie inside of the DevNet SE-Missions Possible Spark room by typing:\n Devvie agent \u003cyour_name\u003e reporting in"}]},{"say":[{"value":"Don't forget to mention Devvie to get his attention!"}]}]}
+String
+
+=========
+=========
+=========
+------->
+inital_text:
+Edgahern
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Sorry, I had trouble processing your request"}]}]}
+String
+
+=========
+=========
+=========
+email:
+Edgahern@cisco.com
+Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw
+{:roomId=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", :personId=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mY2NiZDg4Mi04OTY1LTQ0MjMtYTRjOS0xYTZkZDU5NDRhNTk"}
+{"id"=>"Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvZmNjYmQ4ODItODk2NS00NDIzLWE0YzktMWE2ZGQ1OTQ0YTU5OjA0ZGFlZTcwLTY2MzctMTFlNi04OTI3LTczZjQwNWZmMTk5MA", "roomId"=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", "personId"=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mY2NiZDg4Mi04OTY1LTQ0MjMtYTRjOS0xYTZkZDU5NDRhNTk", "personEmail"=>"edgahern@cisco.com", "personDisplayName"=>"Edgar Hernandez", "isModerator"=>false, "isMonitor"=>false, "created"=>"2016-08-30T22:03:59.409Z"}
+result of spark join room
+
+inital_text:
+Edgahern@cisco.com
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Thanks for joining! Please check in with Devvie inside of the DevNet SE-Missions Possible Spark room by typing:\n Devvie agent \u003cyour_name\u003e reporting in"}]},{"say":[{"value":"Don't forget to mention Devvie to get his attention!"}]}]}
+String
+
+=========
+=========
+=========
+email:
+Jzamorap@cisco.com
+Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw
+{:roomId=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", :personId=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS9jYzlmMjM4NC0zY2EwLTQxMzEtODk4OC1mZWEwNzJiOGUyODI"}
+{"id"=>"Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvY2M5ZjIzODQtM2NhMC00MTMxLTg5ODgtZmVhMDcyYjhlMjgyOjA0ZGFlZTcwLTY2MzctMTFlNi04OTI3LTczZjQwNWZmMTk5MA", "roomId"=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", "personId"=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS9jYzlmMjM4NC0zY2EwLTQxMzEtODk4OC1mZWEwNzJiOGUyODI", "personEmail"=>"jzamorap@cisco.com", "personDisplayName"=>"Jose Zamora Prado", "isModerator"=>false, "isMonitor"=>false, "created"=>"2016-08-30T22:04:08.965Z"}
+result of spark join room
+
+inital_text:
+Jzamorap@cisco.com
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Thanks for joining! Please check in with Devvie inside of the DevNet SE-Missions Possible Spark room by typing:\n Devvie agent \u003cyour_name\u003e reporting in"}]},{"say":[{"value":"Don't forget to mention Devvie to get his attention!"}]}]}
+String
+
+=========
+=========
+=========
+------->
+inital_text:
+Hi,itsDaveNentarz.ImetyoulastweekatGSX,talkingaboutAvnetIoTstarterkit.Iwanttocontinuetheconversation..
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Sorry, I had trouble processing your request"}]}]}
+String
+
+=========
+=========
+=========
+email:
+duittenb@cisco.com
+Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw
+{:roomId=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", :personId=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS83MzMxNzBiYi02YjY3LTQ4N2EtYmJmOC03ZGIzMmIzNGY0ZDE"}
+{"id"=>"Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvNzMzMTcwYmItNmI2Ny00ODdhLWJiZjgtN2RiMzJiMzRmNGQxOjA0ZGFlZTcwLTY2MzctMTFlNi04OTI3LTczZjQwNWZmMTk5MA", "roomId"=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", "personId"=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS83MzMxNzBiYi02YjY3LTQ4N2EtYmJmOC03ZGIzMmIzNGY0ZDE", "personEmail"=>"duittenb@cisco.com", "personDisplayName"=>"Dirk-Jan Uittenbogaard", "isModerator"=>false, "isMonitor"=>false, "created"=>"2016-08-31T12:40:47.084Z"}
+result of spark join room
+
+inital_text:
+duittenb@cisco.com
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Thanks for joining! Please check in with Devvie inside of the DevNet SE-Missions Possible Spark room by typing:\n Devvie agent \u003cyour_name\u003e reporting in"}]},{"say":[{"value":"Don't forget to mention Devvie to get his attention!"}]}]}
+String
+
+=========
+=========
+=========
+email:
+Jasoncla@cisco.com
+Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw
+{:roomId=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", :personId=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS9lNWJjYjgwOC05MWU5LTRhMzEtOWZlYi0wMWIyNzI2NzE1YTk"}
+{"id"=>"Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvZTViY2I4MDgtOTFlOS00YTMxLTlmZWItMDFiMjcyNjcxNWE5OjA0ZGFlZTcwLTY2MzctMTFlNi04OTI3LTczZjQwNWZmMTk5MA", "roomId"=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", "personId"=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS9lNWJjYjgwOC05MWU5LTRhMzEtOWZlYi0wMWIyNzI2NzE1YTk", "personEmail"=>"jasoncla@cisco.com", "personDisplayName"=>"Jason Clarke", "isModerator"=>false, "isMonitor"=>false, "created"=>"2016-09-01T01:35:40.282Z"}
+result of spark join room
+
+inital_text:
+Jasoncla@cisco.com
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Thanks for joining! Please check in with Devvie inside of the DevNet SE-Missions Possible Spark room by typing:\n Devvie agent \u003cyour_name\u003e reporting in"}]},{"say":[{"value":"Don't forget to mention Devvie to get his attention!"}]}]}
+String
+
+=========
+=========
+=========
+email:
+nradclif@cisco.com
+Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw
+{:roomId=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", :personId=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mMDA2N2I3Mi00ODczLTRiZTItYTYyMS0xNTMxNzFmYTMyNDE"}
+{"id"=>"Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvZjAwNjdiNzItNDg3My00YmUyLWE2MjEtMTUzMTcxZmEzMjQxOjA0ZGFlZTcwLTY2MzctMTFlNi04OTI3LTczZjQwNWZmMTk5MA", "roomId"=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", "personId"=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mMDA2N2I3Mi00ODczLTRiZTItYTYyMS0xNTMxNzFmYTMyNDE", "personEmail"=>"nradclif@cisco.com", "personDisplayName"=>"Nick Radcliffe", "isModerator"=>false, "isMonitor"=>false, "created"=>"2016-09-01T09:07:42.487Z"}
+result of spark join room
+
+inital_text:
+nradclif@cisco.com
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Thanks for joining! Please check in with Devvie inside of the DevNet SE-Missions Possible Spark room by typing:\n Devvie agent \u003cyour_name\u003e reporting in"}]},{"say":[{"value":"Don't forget to mention Devvie to get his attention!"}]}]}
+String
+
+=========
+=========
+=========
+email:
+carolmor@cisco.com
+Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw
+{:roomId=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", :personId=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS85MWYzNjQyYi0wNTg1LTRmMDAtODZiMC03ZTQ0YzU2YTg2N2Y"}
+{"id"=>"Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvOTFmMzY0MmItMDU4NS00ZjAwLTg2YjAtN2U0NGM1NmE4NjdmOjA0ZGFlZTcwLTY2MzctMTFlNi04OTI3LTczZjQwNWZmMTk5MA", "roomId"=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", "personId"=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS85MWYzNjQyYi0wNTg1LTRmMDAtODZiMC03ZTQ0YzU2YTg2N2Y", "personEmail"=>"carolmor@cisco.com", "personDisplayName"=>"Carolina Morales Rincon", "isModerator"=>false, "isMonitor"=>false, "created"=>"2016-09-01T15:17:22.286Z"}
+result of spark join room
+
+inital_text:
+carolmor@cisco.com
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Thanks for joining! Please check in with Devvie inside of the DevNet SE-Missions Possible Spark room by typing:\n Devvie agent \u003cyour_name\u003e reporting in"}]},{"say":[{"value":"Don't forget to mention Devvie to get his attention!"}]}]}
+String
+
+=========
+=========
+=========
+email:
+heacheun@cisco.com
+Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw
+{:roomId=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", :personId=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS8yYzAxYzQzZi1lODlmLTQ0N2QtYjMwOS04ZGMyZGUyYTg4ODU"}
+{"id"=>"Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvMmMwMWM0M2YtZTg5Zi00NDdkLWIzMDktOGRjMmRlMmE4ODg1OjA0ZGFlZTcwLTY2MzctMTFlNi04OTI3LTczZjQwNWZmMTk5MA", "roomId"=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", "personId"=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS8yYzAxYzQzZi1lODlmLTQ0N2QtYjMwOS04ZGMyZGUyYTg4ODU", "personEmail"=>"heacheun@cisco.com", "personDisplayName"=>"Healkan Cheung", "isModerator"=>false, "isMonitor"=>false, "created"=>"2016-09-01T15:32:38.349Z"}
+result of spark join room
+
+inital_text:
+heacheun@cisco.com
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Thanks for joining! Please check in with Devvie inside of the DevNet SE-Missions Possible Spark room by typing:\n Devvie agent \u003cyour_name\u003e reporting in"}]},{"say":[{"value":"Don't forget to mention Devvie to get his attention!"}]}]}
+String
+
+=========
+=========
+=========
+email:
+Brybyrne@cisco.com
+Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw
+{:roomId=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", :personId=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82MDc4ZjFlYy0zYjQyLTQ0OTktOGU5Yi1kOWVjYjYyNjBiMDM"}
+{"id"=>"Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvNjA3OGYxZWMtM2I0Mi00NDk5LThlOWItZDllY2I2MjYwYjAzOjA0ZGFlZTcwLTY2MzctMTFlNi04OTI3LTczZjQwNWZmMTk5MA", "roomId"=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", "personId"=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82MDc4ZjFlYy0zYjQyLTQ0OTktOGU5Yi1kOWVjYjYyNjBiMDM", "personEmail"=>"brybyrne@cisco.com", "personDisplayName"=>"Bryan Byrne", "isModerator"=>false, "isMonitor"=>false, "created"=>"2016-09-01T15:40:40.012Z"}
+result of spark join room
+
+inital_text:
+Brybyrne@cisco.com
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Thanks for joining! Please check in with Devvie inside of the DevNet SE-Missions Possible Spark room by typing:\n Devvie agent \u003cyour_name\u003e reporting in"}]},{"say":[{"value":"Don't forget to mention Devvie to get his attention!"}]}]}
+String
+
+=========
+=========
+=========
+email:
+Jkratky@cisco.com
+Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw
+{:roomId=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", :personId=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS8yZjA2ZGU3Ni02NWY2LTRlY2UtYmM1ZS0xZWUxYzAwM2I2NDg"}
+{"id"=>"Y2lzY29zcGFyazovL3VzL01FTUJFUlNISVAvMmYwNmRlNzYtNjVmNi00ZWNlLWJjNWUtMWVlMWMwMDNiNjQ4OjA0ZGFlZTcwLTY2MzctMTFlNi04OTI3LTczZjQwNWZmMTk5MA", "roomId"=>"Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw", "personId"=>"Y2lzY29zcGFyazovL3VzL1BFT1BMRS8yZjA2ZGU3Ni02NWY2LTRlY2UtYmM1ZS0xZWUxYzAwM2I2NDg", "personEmail"=>"jkratky@cisco.com", "personDisplayName"=>"Janel Kratky", "isModerator"=>false, "isMonitor"=>false, "created"=>"2016-09-01T16:28:09.048Z"}
+result of spark join room
+
+inital_text:
+Jkratky@cisco.com
+initialText:
+
+=========
+=========
+=========
+{"tropo":[{"say":[{"value":"Thanks for joining! Please check in with Devvie inside of the DevNet SE-Missions Possible Spark room by typing:\n Devvie agent \u003cyour_name\u003e reporting in"}]},{"say":[{"value":"Don't forget to mention Devvie to get his attention!"}]}]}
+String
+
+=========
+=========
+=========

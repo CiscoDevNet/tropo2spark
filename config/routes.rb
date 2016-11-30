@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  post '/index' => 'devvie#index'
+  post '/gsx_tropo/index' => 'devvie#index'
 end
